@@ -1,4 +1,4 @@
-# anymailfinder-com
+# Anymail Finder
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,143 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-anymailfinder-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://anymailfinder.com/
+Anymail Finder provides a real-time email finder and verification service for sales, HR, and lead generation professionals. It offers verified B2B email addresses by name, domain, company, or LinkedIn URL, with bulk upload up to 100,000 rows and a pay‑only‑for‑verified‑results billing model. The platform includes a REST API, webhooks, and integrations with Zapier, Make.com, n8n, and over 7,000 other tools, enabling automated email discovery and validation at scale.
+
+**Areas:** EmailFinder · B2B · LeadGeneration · Verification · API
+
+## Anymail Finder on APIs.io
+
+Everything profiled for Anymail Finder is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/anymailfinder-com/](https://apis.io/providers/anymailfinder-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Anymail Finder Account API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-account-api/) — The account API from Anymail Finder — 1 operation(s) for account.
+- [Anymail Finder Bulk API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-bulk-api/) — The bulk API from Anymail Finder — 4 operation(s) for bulk.
+- [Anymail Finder Domain API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-domain-api/) — The domain API from Anymail Finder — 3 operation(s) for domain.
+- [Anymail Finder Find Email API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-find-email-api/) — The find-email API from Anymail Finder — 4 operation(s) for find-email.
+- [Anymail Finder Geo Lead API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-geo-lead-api/) — The geo-lead API from Anymail Finder — 3 operation(s) for geo-lead.
+- [Anymail Finder Report API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-report-api/) — The report API from Anymail Finder — 1 operation(s) for report.
+- [Anymail Finder Verify Email API](https://apis.io/apis/anymailfinder-com/anymailfinder-com-verify-email-api/) — The verify-email API from Anymail Finder — 1 operation(s) for verify-email.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Anymailfinder Com Agentic Access](https://apis.io/agentic-access/anymailfinder-com/anymailfinder-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Api5GeoLeadDto](https://apis.io/schemas/anymailfinder-com/anymailfinder-com-api5-geo-lead-dto/)
+- [Api5SearchBulkDto](https://apis.io/schemas/anymailfinder-com/anymailfinder-com-api5-search-bulk-dto/)
+- [Api51BulkCreateWithJsonBodyDto](https://apis.io/schemas/anymailfinder-com/anymailfinder-com-api51-bulk-create-with-json-body-dto/)
+- [Api51FindEmailDecisionMakerResponseSuccessDto](https://apis.io/schemas/anymailfinder-com/anymailfinder-com-api51-find-email-decision-maker-response-success-dto/)
+- [Api51FindEmailPersonResponseSuccessDto](https://apis.io/schemas/anymailfinder-com/anymailfinder-com-api51-find-email-person-response-success-dto/)
+- [Api51GeoLeadCreateBodyDto](https://apis.io/schemas/anymailfinder-com/anymailfinder-com-api51-geo-lead-create-body-dto/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Anymailfinder Com Context](https://apis.io/jsonld/anymailfinder-com/anymailfinder-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Anymail Finder API Rules](https://apis.io/rules/anymailfinder-com/anymailfinder-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Anymailfinder Com Authentication](https://apis.io/security/anymailfinder-com/anymailfinder-com-authentication/)
+- [Anymailfinder Com Domain Security](https://apis.io/security/anymailfinder-com/anymailfinder-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Anymailfinder Com Plans Pricing](https://apis.io/plans/anymailfinder-com/anymailfinder-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Anymailfinder Com Rate Limits](https://apis.io/rate-limits/anymailfinder-com/anymailfinder-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://anymailfinder.com/)
+- [Documentation](https://anymailfinder.com/email-finder-api)
+- [Getting started](https://anymailfinder.com/email-finder-api)
+- [API reference](https://anymailfinder.com/email-finder-api/docs)
+- [Pricing](https://anymailfinder.com/pricing)
+- [Support](https://anymailfinder.com/contact)
+- [Blog](https://anymailfinder.com/blog)
+- [Terms of service](https://anymailfinder.com/legal/terms-of-service)
+- [Privacy policy](https://anymailfinder.com/legal/privacy-policy)
+- [Status](https://status.anymailfinder.com/)
+
+## API Evangelist rating
+
+**Kin Score 55.5** — strong · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 57.0 |
+| Contract governance | 70.9 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 56.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/anymailfinder-com/](https://apis.io/providers/anymailfinder-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Anymail Finder: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/anymailfinder-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
